@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MifareRead</string>
+    <string name="help">Ayuda</string>
+    <string name="about">Acerca de</string>
+</resources>
